@@ -1,8 +1,8 @@
 {
     "codes": ["xxx255"],
     "urls": {
-      "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005547?placeCode=26000398",
+      "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005973?placeCode=26000437",
       "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005598?placeCode=26000415",
-      "倒计时": "https://tickets.interpark.com/gates/zh/global/26005599?placeCode=26000402&bizCode=10965&ps="
+      "倒计时": "https://tickets.interpark.com/gates/zh/global/26005973?placeCode=26000437&bizCode=10965&ps="
     }
   }
