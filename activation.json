@@ -6,9 +6,9 @@
       "max_instances": 5
     },
     "xxx002": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005270?placeCode=26000372", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005270?placeCode=26000372",
-          "倒计时": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005270?placeCode=26000372" },
+       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005566?placeCode=26000397", 
+          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005566?placeCode=26000397",
+          "倒计时": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26005566?placeCode=26000397" },
       "max_instances": 2
     },
     "xxx003": {
