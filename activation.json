@@ -35,6 +35,12 @@
           "倒计时": "https://tickets.interpark.com/gates/zh/global/26007138?placeCode=26000541&bizCode=10965&ps=" },
       "max_instances": 5
     },
+  "boy2": {
+       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008566?placeCode=26000673", 
+          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008566?placeCode=26000673",
+          "倒计时": "https://tickets.interpark.com/gates/zh/global/26008566?placeCode=26000673&bizCode=10965&ps=" },
+      "max_instances": 5
+    },
    "ktz": {
        "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26007886?placeCode=26000634", 
           "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26007886?placeCode=26000634",
