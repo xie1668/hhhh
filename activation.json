@@ -63,7 +63,7 @@
        "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008596?placeCode=26000642", 
           "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008596?placeCode=26000642",
           "倒计时": "https://tickets.interpark.com/gates/zh/global/26008596?placeCode=26000642&bizCode=10965&ps=" },
-      "max_instances": 10
+      "max_instances":10
     },
     "xxx001": {
        "urls": { "普通": "https://world.nol.com/en/ticket/genre/CONCERT/products/26008757?placeCode=26000700", 
