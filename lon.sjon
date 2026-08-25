@@ -1,1 +1,11 @@
+{
+    "lyz": {
+      "url": "https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=213669",
+      "max_instances": 10
+    },
+    "boy2": {
+      "url": "https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=213480",
+      "max_instances": 5
+    }
+  }
 
