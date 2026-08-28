@@ -2,6 +2,10 @@
     "xxx": {
       "url": "https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=213669",
       "max_instances": 5
+    },
+"exo": {
+      "url": "https://tkglobal.melon.com/performance/index.htm?langCd=EN&prodId=213773",
+      "max_instances": 5
     }
   }
 
