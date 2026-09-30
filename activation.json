@@ -86,5 +86,11 @@
           "先行订购": "https://tickets.interpark.com/gates/zh/global/26013663?placeCode=26001097&bizCode=10965&ps=",
           "倒计时": "https://tickets.interpark.com/gates/zh/global/26013663?placeCode=26001097&bizCode=10965&ps=" },
       "max_instances": 5
+    },
+  "test2": {
+        "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26001152/products/26013132", 
+          "先行订购": "https://tickets.interpark.com/gates/zh/global/26013132?placeCode=26001152&bizCode=10965&ps=",
+          "倒计时": "https://tickets.interpark.com/gates/zh/global/26013132?placeCode=26001152&bizCode=10965&ps=" },
+      "max_instances": 5
     }
   }
