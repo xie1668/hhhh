@@ -97,7 +97,7 @@
         "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26001143/products/26013161", 
           "先行订购": "https://world.nol.com/zh-CN/ticket/places/26001143/products/26013161",
           "倒计时": "https://tickets.interpark.com/gates/zh/global/26013161?placeCode=26001143&bizCode=10965&ps=" },
-      "max_instances": 8
+      "max_instances": 12
     },
   "svt": {
         "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26001167/products/26013793", 
