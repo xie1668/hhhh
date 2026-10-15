@@ -1,62 +1,4 @@
  {
-  "lyz": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26000846/products/26010045", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26010045?placeCode=26000846",
-          "倒计时": "https://tickets.interpark.com/gates/zh/global/26010045?placeCode=26000846&bizCode=10965&ps=" },
-      "max_instances": 10
-    },
-  "boy2": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008566?placeCode=26000673", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008566?placeCode=26000673",
-          "倒计时": "https://tickets.interpark.com/gates/zh/global/26008566?placeCode=26000673&bizCode=10965&ps=" },
-      "max_instances": 5
-    },
-  "nct": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008234?placeCode=26000650", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26008234?placeCode=26000650",
-          "倒计时": "https://tickets.interpark.com/gates/zh/global/26008234?placeCode=26000650&bizCode=10965&ps=" },
-      "max_instances": 5
-    },
-  "li": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26001084/products/26012865", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/places/26001084/products/26012865",
-          "倒计时": "https://tickets.interpark.com/gates/zh/global/26012865?placeCode=26001084&bizCode=10965&ps=" },
-      "max_instances":10
-    },
-  "ehp": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26009346?placeCode=26000746", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26009346?placeCode=26000746",
-          "倒计时": "https://tickets.interpark.com/gates/zh/global/26009346?placeCode=26000746&bizCode=10965&ps=" },
-      "max_instances":10
-    },
-    "xxx001": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26004771?placeCode=26000326", 
-          "先行订购": "https://world.nol.com/en/ticket/genre/CONCERT/products/26008757?placeCode=26000700",
-          "倒计时": "https://tickets.interpark.com/gates/en/global/26008757?placeCode=26000700&bizCode=10965&ps=" },
-      "max_instances": 5
-    },
-    "t1": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/SPORTS/products/26009817?placeCode=26000780", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/SPORTS/products/26009817?placeCode=26000780",
-          "倒计时": "https://world.nol.com/zh-CN/ticket/genre/SPORTS/products/26009817?placeCode=26000780" },
-      "max_instances": 5
-    },
-  "222": {
-       "urls": { },
-      "max_instances": 10
-    },
-   "yj": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26009613?placeCode=26000768", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26009613?placeCode=26000768",
-          "倒计时": "https://tickets.interpark.com/gates/zh/global/26009613?placeCode=26000768&bizCode=10965&ps=" },
-      "max_instances": 5
-    },
-   "pzg": {
-       "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26000511/products/26006903", 
-          "先行订购": "https://world.nol.com/zh-CN/ticket/genre/CONCERT/products/26006903?placeCode=26000511",
-          "倒计时": "https://tickets.interpark.com/gates/zh/global/26009613?placeCode=26000768&bizCode=10965&ps=" },
-      "max_instances": 5
-    },
    "xxx": {
        "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26000892/products/26011092", 
           "先行订购": "https://tickets.interpark.com/gates/zh/global/26012968?placeCode=26001096&bizCode=10965&ps=",
@@ -88,7 +30,7 @@
       "max_instances": 8
     },
   "test2": {
-        "urls": { "普通": "https://world.nol.com/zh-CN/ticket/places/26001152/products/26013132", 
+        "urls": { "普通": "https://world.nol.com/zh-CN/ticket/products/26013132", 
           "先行订购": "https://tickets.interpark.com/gates/zh/global/26013132?placeCode=26001152&bizCode=10965&ps=",
           "倒计时": "https://tickets.interpark.com/gates/zh/global/26013132?placeCode=26001152&bizCode=10965&ps=" },
       "max_instances": 8
