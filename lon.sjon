@@ -22,6 +22,10 @@
 "nct": {
       "url": "https://tkglobal.melon.com/performance/index.htm?langCd=CN&prodId=214071",
       "max_instances": 8
+    },
+"qqq": {
+      "url": "https://tkglobal.melon.com/performance/index.htm?langCd=CN&prodId=214321",
+      "max_instances": 8
     }
   }
 
